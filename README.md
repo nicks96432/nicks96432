@@ -1,5 +1,11 @@
 ### 不好耶
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicks96432&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Always a coding newbie :beginner:
 
-I seldom check twitter & email, so please open an issue in the respective repo if there are any problems about my works and want a faster response.
+<div align="center">
+
+|Github Stats|Top Language|
+|:-:|:-:|
+|[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicks96432&theme=transparent&card_width=320&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicks96432&layout=compact&langs_count=12&hide=c&card_width=320&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)|
+
+</div>
